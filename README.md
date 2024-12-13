@@ -33,3 +33,13 @@ Jika sensor api 4 dan 5 mendeteksi adanya api di sebelah kiri, ESP32 akan member
 
   
 Sistem akan mengirimkan pesan melalui Telegram Bot yang menampilkan pesan peringatan dan informasi tentang lokasi api yang terdeteksi. Namun, pesan notifikasi hanya akan dikirimkan jika ada perubahan kondisi dari tidak ada api menjadi terdeteksi api, atau sebaliknya, sehingga sistem tidak terus-menerus mengirimkan pesan notifikasi berulang.
+
+
+
+Video Demo
+
+https://github.com/user-attachments/assets/e73762f7-02e7-480f-97e1-e1edfa362912
+
+
+
+
